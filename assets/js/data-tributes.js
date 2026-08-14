@@ -11,7 +11,7 @@ window.TRIBUTES = [
   author: "Jimi Adewole",
   relation: "Nephew",
   title: "Great Uncle",
-  featured: true,
+  featured: false,
   body: [
     "Most people knew him as Boda Shola. I think when he moved to the UK, he began using Clement more frequently, although in Nigeria, the only person I remember really calling him Clement was his father. When he wrote his name, he often used his initials, C.A.O. But to me, through all those names, he was simply Great Uncle.",
     "I don't actually remember how the name began. My brothers tell me that when I was still a baby, he couldn't be our uncle, the way everybody else was our uncle, and he somehow decided he was Great Uncle and told us to call him that. And eventually, everybody started calling him that.",
@@ -77,7 +77,7 @@ window.TRIBUTES = [
 {
   id: "tosin-adewole",
   author: "Tosin Adewole",
-  relation: "Niece",
+  relation: "Nephew",
   title: "Great Uncle mi mi mi!",
   body: [
     "Great Uncle mi mi mi!",
@@ -167,7 +167,7 @@ window.TRIBUTES = [
 {
   id: "odeyemi-oreoluwa",
   author: "Odeyemi Oreoluwa",
-  relation: "Sibling",
+  relation: "Sister",
   title: "The earth lost a general, heaven received a son",
   body: [
     "He came, he saw, he conquered. He touched lives and affected destinies positively. He ran a good race, and he finished strong.",
